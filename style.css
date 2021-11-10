@@ -1,3 +1,11 @@
 h1 {
     color: blueviolet;
 }
+
+#content {
+    width: 600px;
+    border: 1px solid darkblue;
+    margin: auto;
+    padding: 50px;
+    background-color: #eee;
+}
