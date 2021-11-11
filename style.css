@@ -1,5 +1,6 @@
 h1 {
     color: blueviolet;
+font-family: m;
 }
 
 #content {
@@ -8,4 +9,13 @@ h1 {
     margin: auto;
     padding: 50px;
     background-color: #eee;
+
+}
+p {
+    text-align: justify;
+}
+.portre{
+    width: 150px;
+    float: left;
+    margin-left: 20px;
 }
